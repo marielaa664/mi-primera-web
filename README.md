@@ -1,5 +1,5 @@
 # practica-git
-Sonia Mariela Hernández González 
+Nombre: Sonia Mariela Hernández González 
 
 Objetivos de Aprendizaje:
 
@@ -10,4 +10,6 @@ Objetivos de Aprendizaje:
 3- Adquirir nuevos y mejorar previos conocimientos a través de las practicas y las enseñanzas de los profesionales de la empresa.
 
 4- Aplicar todo lo aprendido en un entorno laboral.
+
+
 
